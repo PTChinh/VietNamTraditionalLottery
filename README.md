@@ -1,0 +1,2 @@
+# VietNamTraditionalLottery
+Lô tô
